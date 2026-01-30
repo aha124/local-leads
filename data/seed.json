@@ -1,0 +1,442 @@
+[
+  {
+    "business_name": "Kuppy's Diner",
+    "business_type": "Restaurant",
+    "location": "Middletown",
+    "phone": null,
+    "current_web_presence": "Facebook only",
+    "listing_url": "yelp.com/biz/kuppys-diner-middletown",
+    "years_in_business": 92,
+    "notes": "PA's oldest family-owned diner since 1933, 5th generation. Cash only. Regional landmark - high visibility project."
+  },
+  {
+    "business_name": "Graybill Electric",
+    "business_type": "Electrician",
+    "location": "Hershey",
+    "phone": "(717) 534-2812",
+    "current_web_presence": "Placeholder only",
+    "listing_url": null,
+    "years_in_business": 73,
+    "notes": "73 years in business with only a placeholder page. Strong candidate."
+  },
+  {
+    "business_name": "Tony's Pizzeria",
+    "business_type": "Restaurant",
+    "location": "Harrisburg",
+    "phone": "(717) 234-5678",
+    "current_web_presence": "No website",
+    "listing_url": "yelp.com/biz/tonys-pizzeria-harrisburg",
+    "years_in_business": 45,
+    "notes": "Family-owned since 1980. Very popular local spot. No online ordering."
+  },
+  {
+    "business_name": "Miller Plumbing & Heating",
+    "business_type": "Plumber",
+    "location": "Lancaster",
+    "phone": "(717) 392-1234",
+    "current_web_presence": "No website",
+    "listing_url": "yellowpages.com/miller-plumbing-lancaster",
+    "years_in_business": 58,
+    "notes": "Well-established, relies on word of mouth. Good reviews but hard to find online."
+  },
+  {
+    "business_name": "Sunrise Bakery",
+    "business_type": "Bakery",
+    "location": "York",
+    "phone": "(717) 845-9012",
+    "current_web_presence": "Facebook only",
+    "listing_url": null,
+    "years_in_business": 25,
+    "notes": "Popular local bakery. Posts on Facebook but no proper website for orders."
+  },
+  {
+    "business_name": "Henderson Law Office",
+    "business_type": "Attorney",
+    "location": "Carlisle",
+    "phone": "(717) 243-5555",
+    "current_web_presence": "Placeholder only",
+    "listing_url": null,
+    "years_in_business": 30,
+    "notes": "Solo practitioner. Basic page with just contact info. Needs full site."
+  },
+  {
+    "business_name": "Valley Auto Repair",
+    "business_type": "Auto Repair",
+    "location": "Mechanicsburg",
+    "phone": "(717) 766-3456",
+    "current_web_presence": "No website",
+    "listing_url": "yelp.com/biz/valley-auto-repair-mechanicsburg",
+    "years_in_business": 40,
+    "notes": "Great reviews on Yelp but zero web presence. Daughter recently took over."
+  },
+  {
+    "business_name": "Saylor's Carpet Cleaning",
+    "business_type": "Cleaning Service",
+    "location": "Hershey",
+    "phone": "(717) 533-7890",
+    "current_web_presence": "No website",
+    "listing_url": null,
+    "years_in_business": 22,
+    "notes": "Serves Hershey and surrounding areas. No website, uses business cards only."
+  },
+  {
+    "business_name": "Keystone Accounting",
+    "business_type": "CPA",
+    "location": "Harrisburg",
+    "phone": "(717) 232-4567",
+    "current_web_presence": "Placeholder only",
+    "listing_url": null,
+    "years_in_business": 35,
+    "notes": "Established CPA firm. Current site is just a single page with phone number."
+  },
+  {
+    "business_name": "Riverside Veterinary Clinic",
+    "business_type": "Veterinarian",
+    "location": "Camp Hill",
+    "phone": "(717) 737-2345",
+    "current_web_presence": "Facebook only",
+    "listing_url": "yelp.com/biz/riverside-vet-camp-hill",
+    "years_in_business": 18,
+    "notes": "Active Facebook presence but no booking system. Could benefit from online scheduling."
+  },
+  {
+    "business_name": "Colonial Barber Shop",
+    "business_type": "Barber",
+    "location": "Middletown",
+    "phone": "(717) 944-1234",
+    "current_web_presence": "No website",
+    "listing_url": null,
+    "years_in_business": 55,
+    "notes": "Traditional barber shop, 3rd generation. Prime candidate for simple website."
+  },
+  {
+    "business_name": "Green Thumb Landscaping",
+    "business_type": "Landscaping",
+    "location": "Palmyra",
+    "phone": "(717) 838-5678",
+    "current_web_presence": "Facebook only",
+    "listing_url": null,
+    "years_in_business": 15,
+    "notes": "Growing business, posts project photos on Facebook. Needs portfolio site."
+  },
+  {
+    "business_name": "Main Street Florist",
+    "business_type": "Florist",
+    "location": "Hummelstown",
+    "phone": "(717) 566-9012",
+    "current_web_presence": "No website",
+    "listing_url": "yelp.com/biz/main-street-florist-hummelstown",
+    "years_in_business": 28,
+    "notes": "Family business, takes phone orders only. Missing e-commerce opportunity."
+  },
+  {
+    "business_name": "Roberts Insurance Agency",
+    "business_type": "Insurance",
+    "location": "Lancaster",
+    "phone": "(717) 394-3456",
+    "current_web_presence": "Placeholder only",
+    "listing_url": null,
+    "years_in_business": 42,
+    "notes": "Independent agency. Basic site from 2005, needs complete overhaul."
+  },
+  {
+    "business_name": "Dauphin Dental Care",
+    "business_type": "Dentist",
+    "location": "Dauphin",
+    "phone": "(717) 921-7890",
+    "current_web_presence": "Placeholder only",
+    "listing_url": null,
+    "years_in_business": 20,
+    "notes": "Small town dentist. Template site with broken contact form."
+  },
+  {
+    "business_name": "Stoner's Appliance Repair",
+    "business_type": "Appliance Repair",
+    "location": "Elizabethtown",
+    "phone": "(717) 367-4567",
+    "current_web_presence": "No website",
+    "listing_url": "yellowpages.com/stoners-appliance-elizabethtown",
+    "years_in_business": 50,
+    "notes": "Well-known local service. Son wants to expand but has no web presence."
+  },
+  {
+    "business_name": "Cocoa Beanery",
+    "business_type": "Coffee Shop",
+    "location": "Hershey",
+    "phone": "(717) 533-2345",
+    "current_web_presence": "Facebook only",
+    "listing_url": "yelp.com/biz/cocoa-beanery-hershey",
+    "years_in_business": 8,
+    "notes": "Independent coffee shop near Hershey attractions. Relies solely on foot traffic."
+  },
+  {
+    "business_name": "Kreider Roofing",
+    "business_type": "Roofing",
+    "location": "Manheim",
+    "phone": "(717) 665-1234",
+    "current_web_presence": "No website",
+    "listing_url": null,
+    "years_in_business": 35,
+    "notes": "Trusted local roofer. Gets work through referrals, ready to expand."
+  },
+  {
+    "business_name": "Perry County Hardware",
+    "business_type": "Retail",
+    "location": "Newport",
+    "phone": "(717) 567-5678",
+    "current_web_presence": "No website",
+    "listing_url": null,
+    "years_in_business": 65,
+    "notes": "Independent hardware store surviving against big box. Community staple."
+  },
+  {
+    "business_name": "Swatara Creek Outfitters",
+    "business_type": "Outdoor Recreation",
+    "location": "Linglestown",
+    "phone": "(717) 545-9012",
+    "current_web_presence": "Facebook only",
+    "listing_url": null,
+    "years_in_business": 12,
+    "notes": "Kayak and canoe rentals. Seasonal business, needs better online booking."
+  },
+  {
+    "business_name": "Heritage Chiropractic",
+    "business_type": "Chiropractor",
+    "location": "Palmyra",
+    "phone": "(717) 838-3456",
+    "current_web_presence": "Placeholder only",
+    "listing_url": null,
+    "years_in_business": 25,
+    "notes": "Established practice. Ancient website with Flash elements that don't work."
+  },
+  {
+    "business_name": "Witmer's Custom Cabinets",
+    "business_type": "Carpentry",
+    "location": "Bird-in-Hand",
+    "phone": "(717) 392-7890",
+    "current_web_presence": "No website",
+    "listing_url": null,
+    "years_in_business": 40,
+    "notes": "Quality Amish craftsmanship. Gets tourist traffic, no online portfolio."
+  },
+  {
+    "business_name": "Central PA Pest Control",
+    "business_type": "Pest Control",
+    "location": "Harrisburg",
+    "phone": "(717) 236-4567",
+    "current_web_presence": "No website",
+    "listing_url": "yellowpages.com/central-pa-pest-harrisburg",
+    "years_in_business": 30,
+    "notes": "Commercial and residential service. Missing leads to competitors with websites."
+  },
+  {
+    "business_name": "Dottie's Dance Studio",
+    "business_type": "Dance Studio",
+    "location": "Lemoyne",
+    "phone": "(717) 761-2345",
+    "current_web_presence": "Facebook only",
+    "listing_url": null,
+    "years_in_business": 35,
+    "notes": "Established dance school. Uses Facebook events but needs class schedule site."
+  },
+  {
+    "business_name": "Zimmerman's Tree Service",
+    "business_type": "Tree Service",
+    "location": "Lititz",
+    "phone": "(717) 626-1234",
+    "current_web_presence": "No website",
+    "listing_url": null,
+    "years_in_business": 28,
+    "notes": "Licensed arborist. Busy during storm seasons, could use lead capture."
+  },
+  {
+    "business_name": "The Book Nook",
+    "business_type": "Bookstore",
+    "location": "Carlisle",
+    "phone": "(717) 243-5678",
+    "current_web_presence": "No website",
+    "listing_url": "yelp.com/biz/book-nook-carlisle",
+    "years_in_business": 40,
+    "notes": "Independent bookstore near Dickinson College. Loyal customer base."
+  },
+  {
+    "business_name": "Shultz Electric",
+    "business_type": "Electrician",
+    "location": "Annville",
+    "phone": "(717) 867-9012",
+    "current_web_presence": "No website",
+    "listing_url": null,
+    "years_in_business": 45,
+    "notes": "Master electrician, commercial and residential. Word of mouth only."
+  },
+  {
+    "business_name": "Mountain View Massage",
+    "business_type": "Massage Therapy",
+    "location": "Dillsburg",
+    "phone": "(717) 432-3456",
+    "current_web_presence": "Facebook only",
+    "listing_url": null,
+    "years_in_business": 10,
+    "notes": "Licensed therapist, home-based business. Needs professional presence."
+  },
+  {
+    "business_name": "Rhoads Concrete",
+    "business_type": "Concrete",
+    "location": "Middletown",
+    "phone": "(717) 944-7890",
+    "current_web_presence": "No website",
+    "listing_url": null,
+    "years_in_business": 38,
+    "notes": "Driveways, patios, foundations. Consistent work, no marketing."
+  },
+  {
+    "business_name": "Olde Town Antiques",
+    "business_type": "Antiques",
+    "location": "Strasburg",
+    "phone": "(717) 687-4567",
+    "current_web_presence": "No website",
+    "listing_url": null,
+    "years_in_business": 25,
+    "notes": "Tourist area location. Could sell online but has no e-commerce."
+  },
+  {
+    "business_name": "Hess Physical Therapy",
+    "business_type": "Physical Therapy",
+    "location": "Ephrata",
+    "phone": "(717) 733-2345",
+    "current_web_presence": "Placeholder only",
+    "listing_url": null,
+    "years_in_business": 18,
+    "notes": "Private practice. Basic GoDaddy site, needs patient portal."
+  },
+  {
+    "business_name": "Cornerstone Realty",
+    "business_type": "Real Estate",
+    "location": "Lebanon",
+    "phone": "(717) 272-1234",
+    "current_web_presence": "Placeholder only",
+    "listing_url": null,
+    "years_in_business": 22,
+    "notes": "Small brokerage. Site doesn't show listings, losing to competitors."
+  },
+  {
+    "business_name": "Sunny Day Preschool",
+    "business_type": "Childcare",
+    "location": "New Cumberland",
+    "phone": "(717) 774-5678",
+    "current_web_presence": "Facebook only",
+    "listing_url": null,
+    "years_in_business": 15,
+    "notes": "Licensed childcare center. Parents can't find info online easily."
+  },
+  {
+    "business_name": "Bomberger's Lawn Care",
+    "business_type": "Lawn Care",
+    "location": "Mount Joy",
+    "phone": "(717) 653-9012",
+    "current_web_presence": "No website",
+    "listing_url": null,
+    "years_in_business": 20,
+    "notes": "Residential and commercial accounts. Growing, needs quote request form."
+  },
+  {
+    "business_name": "Susquehanna Glass Co.",
+    "business_type": "Glass Service",
+    "location": "Marietta",
+    "phone": "(717) 426-3456",
+    "current_web_presence": "No website",
+    "listing_url": null,
+    "years_in_business": 55,
+    "notes": "Windows, mirrors, auto glass. Long-standing business, zero online presence."
+  },
+  {
+    "business_name": "Creekside Pet Grooming",
+    "business_type": "Pet Grooming",
+    "location": "Mechanicsburg",
+    "phone": "(717) 697-7890",
+    "current_web_presence": "Facebook only",
+    "listing_url": "yelp.com/biz/creekside-pet-grooming-mechanicsburg",
+    "years_in_business": 8,
+    "notes": "Great reviews. Appointment booking via phone/text only."
+  },
+  {
+    "business_name": "Weber Welding",
+    "business_type": "Welding",
+    "location": "Myerstown",
+    "phone": "(717) 866-4567",
+    "current_web_presence": "No website",
+    "listing_url": null,
+    "years_in_business": 32,
+    "notes": "Custom fabrication and repairs. Farm equipment specialty."
+  },
+  {
+    "business_name": "The Stitch Shop",
+    "business_type": "Alterations",
+    "location": "Camp Hill",
+    "phone": "(717) 761-2345",
+    "current_web_presence": "No website",
+    "listing_url": null,
+    "years_in_business": 28,
+    "notes": "Expert tailor. Bridal and formal wear alterations. Word of mouth only."
+  },
+  {
+    "business_name": "Brubaker's HVAC",
+    "business_type": "HVAC",
+    "location": "Lititz",
+    "phone": "(717) 626-1234",
+    "current_web_presence": "Placeholder only",
+    "listing_url": null,
+    "years_in_business": 48,
+    "notes": "Family business since 1977. Basic site with just phone, no service details."
+  },
+  {
+    "business_name": "Daisy's Dog Training",
+    "business_type": "Pet Training",
+    "location": "Enola",
+    "phone": "(717) 732-5678",
+    "current_web_presence": "Facebook only",
+    "listing_url": null,
+    "years_in_business": 6,
+    "notes": "Certified trainer. Growing through social media, needs proper site."
+  },
+  {
+    "business_name": "Martin's Well Drilling",
+    "business_type": "Well Drilling",
+    "location": "Newville",
+    "phone": "(717) 776-9012",
+    "current_web_presence": "No website",
+    "listing_url": null,
+    "years_in_business": 60,
+    "notes": "Serves rural Cumberland County. Essential service, hard to find online."
+  },
+  {
+    "business_name": "Classic Cuts Hair Salon",
+    "business_type": "Hair Salon",
+    "location": "Elizabethville",
+    "phone": "(717) 362-3456",
+    "current_web_presence": "Facebook only",
+    "listing_url": null,
+    "years_in_business": 18,
+    "notes": "Full-service salon. Posts styles on Facebook, needs booking system."
+  },
+  {
+    "business_name": "Brenneman Painting",
+    "business_type": "Painting",
+    "location": "Millersburg",
+    "phone": "(717) 692-7890",
+    "current_web_presence": "No website",
+    "listing_url": null,
+    "years_in_business": 25,
+    "notes": "Interior/exterior residential. Good reputation, needs portfolio site."
+  },
+  {
+    "business_name": "Riverfront Cafe",
+    "business_type": "Restaurant",
+    "location": "Wormleysburg",
+    "phone": "(717) 737-4567",
+    "current_web_presence": "Facebook only",
+    "listing_url": "yelp.com/biz/riverfront-cafe-wormleysburg",
+    "years_in_business": 12,
+    "notes": "Breakfast and lunch spot. Menu only on Facebook, needs proper site."
+  }
+]
